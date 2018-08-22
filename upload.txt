@@ -1,0 +1,11 @@
+git init
+
+git add . # or git add <file>
+
+git commit -m "sentence"
+
+#git remote add origin git@github.com:moriken8z/test.git クローンしたやつなら不要？
+
+git push -u origin master
+
+
